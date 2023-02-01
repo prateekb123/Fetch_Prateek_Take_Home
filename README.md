@@ -35,6 +35,8 @@ To run this script, you must have Python installed on your computer. It is avail
    Please provide the file path - <Input Path Here>
    
    Eg. Please provide the file path - /Users/prateekbansal/Downloads/transactions.csv
+   
+3. Remove the line 104 and 105 if coloums can be more than 3.
 
    
 2. The script will return the output in the form of JSON, showing how many points are left with each payer.
