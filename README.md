@@ -39,7 +39,14 @@ To run this script, you must have Python installed on your computer. It is avail
    
 2. The script will return the output in the form of JSON, showing how many points are left with each payer.
 
-Output -
-{'DANNON': 1000, 'UNILEVER': 0, 'MILLER COORS': 5300}
+# Output
+   
+If there are enough points - 
+   
+   {'DANNON': 1000, 'UNILEVER': 0, 'MILLER COORS': 5300}
+      
+If there are not enough points - 
+
+   'Insufficient points'
 
   
