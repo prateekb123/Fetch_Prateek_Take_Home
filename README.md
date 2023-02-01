@@ -13,13 +13,20 @@ To run this script, you must have Python installed on your computer. It is avail
 # Installing
 
 1. Clone the repository to your local machine by using the following command:
+
+   Command - 
+   git clone https://github.com/prateekb123/Fetch_Prateek_Take_Home.git
+   
 2. Navigate to the project directory by using the following command:
+
+   Command - 
+   cd Fetch_Prateek_Take_Home
 
 # Usage
 
 1. Run the script using the following command:
-   python3 take_home_test_for_fetch.py <input spend amount>
-   Eg. -> python3 take_home_test_for_fetch.py 5000
+   python3 fetch_prateek_take_home_test.py <input spend amount>
+   Eg. -> python3 fetch_prateek_take_home_test.py 5000
    
 2. Enter the full file path for the CSV when prompted.
 Eg. Please provide the file path - <Input Path Here>
