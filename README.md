@@ -25,10 +25,12 @@ To run this script, you must have Python installed on your computer. It is avail
 # Usage
 
 1. Run the script using the following command:
+
    python3 fetch_prateek_take_home_test.py <input spend amount>
    Eg. -> python3 fetch_prateek_take_home_test.py 5000
    
 2. Enter the full file path for the CSV when prompted.
+
    Eg. Please provide the file path - <Input Path Here>
    Eg. Please provide the file path - /Users/prateekbansal/Downloads/transactions.csv
 
