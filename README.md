@@ -29,8 +29,8 @@ To run this script, you must have Python installed on your computer. It is avail
    Eg. -> python3 fetch_prateek_take_home_test.py 5000
    
 2. Enter the full file path for the CSV when prompted.
-Eg. Please provide the file path - <Input Path Here>
-Eg. Please provide the file path - /Users/prateekbansal/Downloads/transactions.csv
+   Eg. Please provide the file path - <Input Path Here>
+   Eg. Please provide the file path - /Users/prateekbansal/Downloads/transactions.csv
 
    
 2. The script will return the output in the form of JSON, showing how many points are left with each payer.
